@@ -2,8 +2,9 @@ package com.hp.redis.bean;
 
 public class Province {
 
-    //张三在 自己负责的模块 , 新增了功能
-    private String desc;
+    //B  在 自己负责的模块 , 新增了功能
+    private String desc123;
+
 
 
     private Integer id;
